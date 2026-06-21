@@ -1,47 +1,191 @@
 %PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 8 0 R /F4 18 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:sohamdas.dev@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 118.6515 699.4 227.3175 710.2 ] /Subtype /Link /Type /Annot
+>>
 endobj
 5 0 obj
-<< /Length 124 >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/soham-das-5a813528a/)
+>> /Border [ 0 0 0 ] /Rect [ 234.6615 699.4 341.1945 710.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sohamdas01)
+>> /Border [ 0 0 0 ] /Rect [ 348.5385 699.4 446.5845 710.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://huggingface.co/sohamdas01)
+>> /Border [ 0 0 0 ] /Rect [ 453.9285 699.4 568.9935 710.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nurodesk.vercel.app)
+>> /Border [ 0 0 0 ] /Rect [ 462.5425 456.8 510.584 468.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sohamdas01/NuroDesk)
+>> /Border [ 0 0 0 ] /Rect [ 518.526 456.8 550.1895 468.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.loom.com/share/4e69b1341efa4afdb92c9026489eb851)
+>> /Border [ 0 0 0 ] /Rect [ 558.1315 456.8 584 468.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://codeflow-2026-neural-nexus-fast-car-sand.vercel.app)
+>> /Border [ 0 0 0 ] /Rect [ 462.5425 330.2 510.584 341.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sohamdas01/FastCare)
+>> /Border [ 0 0 0 ] /Rect [ 518.526 330.2 550.1895 341.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.loom.com/share/3871b793e4e04dddaf23625832f49ec1)
+>> /Border [ 0 0 0 ] /Rect [ 558.1315 330.2 584 341.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://flux-ui-pink.vercel.app)
+>> /Border [ 0 0 0 ] /Rect [ 462.5425 215.1 510.584 226.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sohamdas01/FluxUI)
+>> /Border [ 0 0 0 ] /Rect [ 518.526 215.1 550.1895 226.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.loom.com/share/8472ba8f90f241e5892b3397589957e1)
+>> /Border [ 0 0 0 ] /Rect [ 558.1315 215.1 584 226.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R ] /Contents 23 0 R /MediaBox [ 0 0 612 792 ] /Parent 22 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+20 0 obj
+<<
+/PageMode /UseNone /Pages 22 0 R /Type /Catalog
+>>
+endobj
+21 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260620011512+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260620011512+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+22 0 obj
+<<
+/Count 1 /Kids [ 19 0 R ] /Type /Pages
+>>
+endobj
+23 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3811
+>>
 stream
-BT
-/F1 24 Tf
-70 710 Td
-(Soham Das - Full-Stack & GenAI Developer) Tj
-/F1 12 Tf
-0 -30 Td
-(Email: sohamdas.dev@gmail.com | Phone: +91-9832240530) Tj
-0 -20 Td
-(Location: Kolkata, India) Tj
-0 -40 Td
-(Summary:) Tj
-0 -15 Td
-(Full-Stack & GenAI Developer experienced in building RAG, LangChain, and LLM applications.) Tj
-0 -15 Td
-(B.Tech in Computer Science and Engineering | ST. THOMAS' COLLEGE OF ENGINEERING & TECHNOLOGY) Tj
-ET
-endstream
+Gb"/)>Bef@(4OT5R&;KUMQeAA2XS[2(cuW?9aj`lf?28ZNJ2+=UZu<DY5\3FHU\VLah^Q=o2Iff6CQ*3mr.ZW`D$25lI-%WHb3fYk8(C?[_-,$TJp9%)4N6crV=Sc7eR)#;g-TuH8[,.^8^NJhCD:-Wmrdf`(Dqo#IKYB9^C?nY]i,f`T*f<3X`L\+Zn`K)n,Zs/cW_IS`eYt4b!,a##3(Vc2Fa&TJs_gC;-N8h_NZeqXi83Rs;#USd0hOaLH<;?F("ONA&tQGS#Fb7Df%9pc=Bs58#0>B\h@BS^uiKk\43rHa\2^/4d0@;FcUBo,'\>NP@mG%jT77Sb?oI?k3&\BN#%V;Ndm"e"/'2rp,9n%sj6Eos8C0i(*OYocnd)j@;^TP2R/`fT,S$Cn7cZW,c1mg)IBD4UB!<j,UpjrGa*U3eL5LkN(]l7V%q0*,Q<eBCY<<ebJk4EhfP`*qW5"g:\YV`5A3S_3jo1gP]-q)B?'A^r?hI"`2StN,=p)lql7T.=8CnXZ()rY?B,u[MJQBJ[74pgshDt';'6i(Qfr0.oP8_+D6Fap_F*T6f5nM7P#WM,$`.J3:Ir[q(bQFT$gO`)%rF5W\`OCCDh9JmJ*E?=XWoQ!HSfdQd'd9:"J+?#hn>d<g8X-QYE^"_-NtZ(2H-pZ"K]JM0*fo2PnS]KTi5`NHq=5Fet:W,0H8pAKhD-O*Kp?M-^Q2A8?rJ6>]ngQ/KB=q4V3\-I"rGp=Pn5.CS3'@!j9lN$TY_4E8rZP6aV:Bn770bug8;aKWig\KA>'HV6WD3.7Zm8Oisc<_FPnN,fQ!VT)m_.>E'YCat#l$)n1/"-hl%0mBq84QtA+2aFX[@AsZUV1IJ(X#)?-r$%(!j`37`**V&KS`s>eIX!VaNEHri@IP&`<[M`LhrJFVX"&K`gct4p's$$NN]#8H7De)-Qd$0]``[_T/j%+MOl_`%10,l2SGglI=-Iq"h01>3r[*j+]0JQ'fa$009TXEQ^>^S%JD+L[j7?_$%S!Q$i@EuaD0@,^*-%9&`,\!C+&d-@D:nJZQ>gDS\.u0"X/u1j_D]6GXiM&,*oK*>g`sjlLI(\ZiHb^80JE>E6&-XV=3kGV9Zm%,8lXidP6h:gaHe"rs#;-_rifBF2G)m9-$#SJ&.eegc$g>,1-cIB%I)XTaJ8J7\A&fOoYkhaMhRAiERn\co*;G%fuMB[EW!_p2].(Ppul5`a^WY/n!7%]@@+.o,XOHie7EQpbYj6X5/=LA]bo(6OU<qg'QT[D!'Me!VOq<c^/SCq:)?P\]J/4:ZS"=4r4i4<"M;4X3^C?'nm]O=:':&7J]upSrDtcFjOmbIYY6i+&IY?+C8:cuqh_!!h/X2KB)r69n(iZ7S^iUiB4`j_^DJb".0F#^Ap4nI20%TmY41s6?U<BY>"^\R+br:1=MU,+61H7@6pMM&\QcT="SF.[Y=SujgRFh5PN@@K0KA<H@m[E)aC*@!d1iU`OgJ%0d/TC3fl'^o?/Di,A_+E;'8[!;cT^'5ec6-M!\g.0OQ*PM.7u:?FP\[;lI>B[asYo-\iO/6K3[A9:J,S6iff>"@%F*:WhfpY6=`H2\*s\HO("r=i[Y<i@O&3<"T@Ef$R!kY*=[54=FChtLp^O/)BRK71sM]K\#:-IUo9+q3R3.W@)ns?$uY028ut3WS+JK@IdgVd.sSfr:*m[LXd4c^H.jqY=:T.6iFi>F-!M+[51OItY&)Qf6<Gp/<[TS+#Gr4E/lq8Q+BTWQlqSm9jk]#cQKE0<PACIhQOejU9M:RpQ8[oUm**f$O)?;RPZ'agg\c!CAWHo/icgeDo9K+G7K`V/lM[l"RQn"]KhP)>QQk[M1>b%bm)!EEB:VQe5fEm2ci=jsKTW/tX]m=dN2eWrq:5it"XG#u1aoW06I"F!:ogNVQpSPeF3k7!TP]1#$tXl@-'R)1^ba>W6[V>AE\Uo>K,,'t[e<WLZB3Y4<'^QhMF^@!V7=\Xe$Re@A.Cb,_u?q"qVdVFeNp)noqB0mDguNIaT/cjJjG\*M4ss9E18A:0,sWTB.f>VK5M862l*aL&eD<I9jD&WlQeoI22&tjj='0c=]%)?GQ9@*>`1sa5&"%&0;[_BhEq^N_bm'-c8=UXWs+,pK1k>7,nWhI6F<h.Rpp/7;jAk:PtXqeA.mgZ.2N(=Z&obHC;GG@KI7]H!\hOTOD#KJ5`7)"g>"#2g`YGq]q]&uZ1)Vfje[q:V.)6UZl2r][_sbT.qK!"b2n_f#:I2s.XrmaT;fm5inHf-7SumnZq@P,[@X)b*N](\*?'I8534.]V&;mj%1?b._o$Ue!oKrr>)>+dnDSCK0UIJ1HqpLNi0]6lq[qgDFWFSO#FVb?GqH@ZkeTcgoUMigE-Fu*gr"8_HW7$=)f_Es&Cd9B1n3u&1dKm/WXHc-79XS]FCfq%"`[P_f#k^>6+MJbg^E&M^3SL3Cph4a_sEed!SD\qb0ZeCUD3!$ln6/Z+kli,::>!c<_0+Pe:%E?>/=Jb5KMEd'(5N_,#VHE3d#L!V@).kTnj0Pc,oGq%/,hB(cA9JJ(o$"Q,Ij_IOO!W^"YuA?VqlcWGTV,J=<+/^"#)rg[_;O98m#,r2TOA+BI-mh\2m%<ToUT`-S"f1/s)>>&\!TEIm3qd!;a&FThepeS@p#cd8E=d,_gSVd;36>/#kB^]lZq("bJ!Babf7Q1bU\L61D`B8r9PR5Q>u\`;aIkXMK/4J=!]PQ=lu8u:5_fj2D,PglmZm/q]EdkjE1#r[PQ1&RV>\q[Mr[8:FbOfAKih/`hpBrIs9[S93G'cjn%0N=+V],5^?feU32b:Rk)ZPF];Z*m9@I`)84;e0)"M=um&'T_j%h3-]9=#Gbub(".SH@%P8nL%n!i,nThT%0dpgt6NE#_?Q=\($eLLNMq(]6,T>Wq^bY0)FH9Hf#U:.L!KW_`/2r/%LYq2=rL'kp_hJ+UU@/i=fYh:2l(^KtA$H=IsD-fAg;.LETGAVNIh#!(K`<:m6g=8C:0;F`e%GQ--ufL@(_K'-cT.R'6EQ79gkaeToW=9EOtjFoMq#^cp-tTfk5D>D)qlQ4!1Y^Krg['Q.b,rgs?m3n`'BPE6CLB:mX;rYJ2?'U5mmQH&%D1Y:4(.=ls'Q>4"^s(R<jaFf^U;=Pk'7HD<8Rmp^ZEAppREePku<n<O/l6HE7FO=>9'u3e2AS'`L6JFT9D?@17'Mp)V>E_PN\6M6!:8jeI1O2Ka!:E]B\I/*tch,U=jQ'=dF<Dc0a'Sh'/^q/l<KF<e`C+SUT8U:q7A#=(5g0ge/5A=^OuA[\'][`($)&4>nk>UPemP<)(''BQgWg[7BIF;g8?f_'gd7h0J@u>)9<8:Slfo<[a#O/YNtXVW"gBOJ*@]B"%t9tbjsnT_&s9LiMRYkbWia,3"LFH&o[nn2CB0"D((d13LK+uZ\<\l>\&]33%`j!tW\oX?[qTd45T25bGQR5Ys+CV&HWe&IU,Lutg.truk"3!Y+I?7HRLXJeaD*@pE,'HMN#Ir:3dc<5Nj7r"WLGP$p6qTO3Z0S(DlsVQDY<k`HL>@lRqQ0!e'5)=l&0,6/`5AhN>GTqen1,8fkbshAN/dgH@9dY4e:G9?=0qgCcS'!]=s]h>Whrd'W#O8=n4.X.ENM<H?S0q/E.H`h"-JKfk'7@]Lm5;0i-pk89!(Yj0'#%^](+\i#)db]qk]/"AYR35NNb6G2_Z:WQ;)TmuZn.nG^ZZ(\@0XqsR>.MeknL\Nfq#-hDt@%8i?@&.9&1PE0XReqs>CmSN?]#,<@^4o_(YEUGR9[/1aOcH4b7Wc0i\Ms`$O^%qsi<VrN~>endstream
 endobj
 xref
-0 6
+0 24
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000242 00000 n 
-0000000311 00000 n 
+0000000061 00000 n 
+0000000123 00000 n 
+0000000230 00000 n 
+0000000342 00000 n 
+0000000517 00000 n 
+0000000711 00000 n 
+0000000886 00000 n 
+0000001065 00000 n 
+0000001184 00000 n 
+0000001356 00000 n 
+0000001540 00000 n 
+0000001741 00000 n 
+0000001946 00000 n 
+0000002130 00000 n 
+0000002331 00000 n 
+0000002508 00000 n 
+0000002690 00000 n 
+0000002891 00000 n 
+0000003007 00000 n 
+0000003304 00000 n 
+0000003374 00000 n 
+0000003655 00000 n 
+0000003716 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<<
+/ID 
+[<4055b03434e83ec5e25959308dcd3197><4055b03434e83ec5e25959308dcd3197>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 21 0 R
+/Root 20 0 R
+/Size 24
+>>
 startxref
-537
+7619
 %%EOF

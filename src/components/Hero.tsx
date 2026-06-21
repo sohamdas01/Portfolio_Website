@@ -7,7 +7,7 @@ import { personalInfo } from '@/lib/data';
 // Custom SVG Icon for LeetCode
 const LeetCodeIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg viewBox="0 0 24 24" fill="currentColor" className={props.className} {...props}>
-    <path d="M13.483 0a1.374 1.374 0 0 0-.961.414l-9.777 9.778a1.375 1.375 0 0 0 0 1.943l1.19 1.19a1.37 1.37 0 0 0 1.937-.005l9.782-9.782a1.375 1.375 0 0 0 0-1.943l-1.19-1.19A1.37 1.37 0 0 0 13.483 0zm-8.835 12.82a1.376 1.376 0 0 0-1.942.003l-1.19 1.19a1.374 1.374 0 0 0 0 1.943l9.78 9.78a1.375 1.375 0 0 0 1.943 0l1.19-1.19a1.374 1.374 0 0 0 0-1.943l-9.78-9.78zm13.111-5.748a1.375 1.375 0 0 0-1.943 0l-1.19 1.19a1.374 1.374 0 0 0 0 1.943l9.78 9.78a1.375 1.375 0 0 0 1.943 0l1.19-1.19a1.374 1.374 0 0 0 0-1.943l-9.78-9.78z" />
+    <path d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a5.266 5.266 0 0 0-1.209 2.104a5.35 5.35 0 0 0-.125.513a5.527 5.527 0 0 0 .062 2.362a5.83 5.83 0 0 0 .349 1.017a5.938 5.938 0 0 0 1.271 1.818l4.277 4.193a.039.039 0 0 0 .039.038c2.248 2.165 5.852 2.133 8.063-.074l2.396-2.392a1.38 1.38 0 0 0 0-1.954l-2.359-2.359a1.38 1.38 0 0 0-1.955 0l-.303.303a1.128 1.128 0 0 1-1.618 0l-.303-.303a1.378 1.378 0 0 1 0-1.954l2.359-2.359c.54-.54 1.415-.54 1.955 0l2.396 2.392c2.21 2.207 5.814 2.239 8.063.074l.038-.038 4.277-4.193a5.938 5.938 0 0 0 1.271-1.818a5.83 5.83 0 0 0 .349-1.017a5.527 5.527 0 0 0 .062-2.362a5.35 5.35 0 0 0-.125-.513a5.266 5.266 0 0 0-1.209-2.104L16.85 6.226l-5.406-5.788A1.374 1.374 0 0 0 10.518 0Z" />
   </svg>
 );
 
@@ -58,7 +58,7 @@ export default function Hero() {
         {/* Badge */}
         <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-neutral-900/60 border border-neutral-800 text-xs font-medium text-neutral-400 mb-6 hover:border-violet-500/30 transition-all duration-300">
           <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-          Open for Internship Opportunities
+          Open for Job and Internship Opportunities
         </div>
 
         {/* Heading */}
