@@ -1,21 +1,43 @@
 # Soham Das -My Portfolio Website
 
-✨ About Me
+👋 About Me
 I’m Soham Das, a Full‑Stack & GenAI Developer | AI Engineer based in Kolkata, India.
-I specialize in building production‑ready AI applications that combine modern web development with advanced Generative AI workflows. My work bridges LLM engineering with scalable full‑stack systems, delivering solutions that are both technically robust and visually polished.
+I build production‑ready AI applications that combine modern web development with advanced Generative AI workflows. My focus is on creating scalable, visually polished systems that solve real‑world problems.
 
-🔑 My Core Skills
-GenAI & LLM Engineering: Python, RAG pipelines, LangChain, LangGraph, Prompt Engineering, Fine‑tuning, Agent SDK, MCP, Agentic Workflows, Vector Databases, Graph Databases
+🔑 Skills
+🧠 GenAI & LLM Engineering
+Python, RAG pipelines, LangChain, LangGraph
 
-AI/ML Concepts: NLP, Entity Extraction, Embedding Models, Retrieval‑Augmented Generation, AI Pipeline Design, Model Evaluation, Algorithm Testing
+Prompt Engineering, Fine‑tuning, Agent SDK, MCP
 
-Frontend & Web Development: React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Redux, Bootstrap
+Agentic Workflows, Vector Databases, Graph Databases
 
-Backend & APIs: Node.js, Express.js, REST APIs, GraphQL, Drizzle ORM
+🤖 AI/ML Concepts
+NLP, Entity Extraction, Embedding Models
 
-Databases & Cloud: MongoDB, PostgreSQL, MySQL, Firebase, MongoDB Atlas, Qdrant Cloud
+Retrieval‑Augmented Generation (RAG)
 
-Tools & DevOps: Git, GitHub, Docker, Postman, VS Code, Vercel, Render
+AI Pipeline Design, Model Evaluation, Algorithm Testing
+
+🎨 Frontend & Web Development
+React.js, Next.js, TypeScript, JavaScript (ES6+)
+
+Tailwind CSS, HTML5, CSS3, Redux, Bootstrap
+
+⚙️ Backend & APIs
+Node.js, Express.js
+
+REST APIs, GraphQL, Drizzle ORM
+
+🗄️ Databases & Cloud
+MongoDB, PostgreSQL, MySQL, Firebase
+
+MongoDB Atlas, Qdrant Cloud
+
+🛠️ Tools & DevOps
+Git, GitHub, Docker, Postman, VS Code
+
+Vercel, Render
 
 🎯 What Drives Me
 Designing agentic AI workflows that go beyond prompt engineering
@@ -24,7 +46,7 @@ Building scalable full‑stack platforms with modern UI/UX
 
 Optimizing cloud infrastructure for low latency and reliability
 
-Creating impactful, production‑ready systems that solve real‑world problems
+Delivering impactful, production‑ready systems
 
 * 📧 **Email**: [sohamdas.dev@gmail.com](mailto:sohamdas.dev@gmail.com)
 * 📞 **Phone**: +91-9832240530
