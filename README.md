@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-I’m **Soham Das**, a **Full‑Stack & GenAI Developer | AI Engineer** based in **Kolkata, India**.  
+I’m **Soham Das**, a **Full‑Stack & GenAI Developer | AI Engineer**
 I build **production‑ready AI applications** that combine modern web development with advanced Generative AI workflows.  
 My focus is on creating **scalable, visually polished systems** that solve real‑world problems.
 
@@ -43,7 +43,7 @@ My focus is on creating **scalable, visually polished systems** that solve real�
 - Building **scalable full‑stack platforms** with modern UI/UX  
 - Optimizing **cloud infrastructure** for low latency and reliability  
 - Delivering **impactful, production‑ready systems**
-
+---
 
 * 📧 **Email**: [sohamdas.dev@gmail.com](mailto:sohamdas.dev@gmail.com)
 * 📞 **Phone**: +91-9832240530
