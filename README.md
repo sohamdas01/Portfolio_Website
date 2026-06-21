@@ -1,52 +1,49 @@
 # Soham Das -My Portfolio Website
 
-👋 About Me
-I’m Soham Das, a Full‑Stack & GenAI Developer | AI Engineer based in Kolkata, India.
-I build production‑ready AI applications that combine modern web development with advanced Generative AI workflows. My focus is on creating scalable, visually polished systems that solve real‑world problems.
+# 👋 About Me
 
-🔑 Skills
-🧠 GenAI & LLM Engineering
-Python, RAG pipelines, LangChain, LangGraph
+I’m **Soham Das**, a **Full‑Stack & GenAI Developer | AI Engineer** based in **Kolkata, India**.  
+I build **production‑ready AI applications** that combine modern web development with advanced Generative AI workflows.  
+My focus is on creating **scalable, visually polished systems** that solve real‑world problems.
 
-Prompt Engineering, Fine‑tuning, Agent SDK, MCP
+---
 
-Agentic Workflows, Vector Databases, Graph Databases
+## 🔑 Skills
 
-🤖 AI/ML Concepts
-NLP, Entity Extraction, Embedding Models
+### 🧠 GenAI & LLM Engineering
+- **Python**, **RAG pipelines**, **LangChain**, **LangGraph**  
+- **Prompt Engineering**, **Fine‑tuning**, **Agent SDK**, **MCP**  
+- **Agentic Workflows**, **Vector Databases**, **Graph Databases**
 
-Retrieval‑Augmented Generation (RAG)
+### 🤖 AI/ML Concepts
+- **NLP**, **Entity Extraction**, **Embedding Models**  
+- **Retrieval‑Augmented Generation (RAG)**  
+- **AI Pipeline Design**, **Model Evaluation**, **Algorithm Testing**
 
-AI Pipeline Design, Model Evaluation, Algorithm Testing
+### 🎨 Frontend & Web Development
+- **React.js**, **Next.js**, **TypeScript**, **JavaScript (ES6+)**  
+- **Tailwind CSS**, **HTML5**, **CSS3**, **Redux**, **Bootstrap**
 
-🎨 Frontend & Web Development
-React.js, Next.js, TypeScript, JavaScript (ES6+)
+### ⚙️ Backend & APIs
+- **Node.js**, **Express.js**  
+- **REST APIs**, **GraphQL**, **Drizzle ORM**
 
-Tailwind CSS, HTML5, CSS3, Redux, Bootstrap
+### 🗄️ Databases & Cloud
+- **MongoDB**, **PostgreSQL**, **MySQL**, **Firebase**  
+- **MongoDB Atlas**, **Qdrant Cloud**
 
-⚙️ Backend & APIs
-Node.js, Express.js
+### 🛠️ Tools & DevOps
+- **Git**, **GitHub**, **Docker**, **Postman**, **VS Code**  
+- **Vercel**, **Render**
 
-REST APIs, GraphQL, Drizzle ORM
+---
 
-🗄️ Databases & Cloud
-MongoDB, PostgreSQL, MySQL, Firebase
+## 🎯 What Drives Me
+- Designing **agentic AI workflows** that go beyond prompt engineering  
+- Building **scalable full‑stack platforms** with modern UI/UX  
+- Optimizing **cloud infrastructure** for low latency and reliability  
+- Delivering **impactful, production‑ready systems**
 
-MongoDB Atlas, Qdrant Cloud
-
-🛠️ Tools & DevOps
-Git, GitHub, Docker, Postman, VS Code
-
-Vercel, Render
-
-🎯 What Drives Me
-Designing agentic AI workflows that go beyond prompt engineering
-
-Building scalable full‑stack platforms with modern UI/UX
-
-Optimizing cloud infrastructure for low latency and reliability
-
-Delivering impactful, production‑ready systems
 
 * 📧 **Email**: [sohamdas.dev@gmail.com](mailto:sohamdas.dev@gmail.com)
 * 📞 **Phone**: +91-9832240530
