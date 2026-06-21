@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { Mail, Phone, MapPin, Github, Linkedin, Send, CheckCircle2, AlertCircle } from 'lucide-react';
+import { Mail, Phone, MapPin, Github, Linkedin, Send, AlertCircle } from 'lucide-react';
 import { personalInfo } from '@/lib/data';
 import FadeIn from './FadeIn';
 
@@ -24,7 +24,7 @@ export default function Contact() {
     subject: '',
     message: '',
   });
-  const [showToast, setShowToast] = useState(false);
+  // const [showToast, setShowToast] = useState(false);
   const [error, setError] = useState('');
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
@@ -51,10 +51,10 @@ export default function Contact() {
     window.location.href = `mailto:${recipient}?subject=${emailSubject}&body=${emailBody}`;
 
     // Success state feedback
-    setShowToast(true);
+    // setShowToast(true);
     setFormData({ name: '', email: '', subject: '', message: '' });
     setTimeout(() => {
-      setShowToast(false);
+      // setShowToast(false);
     }, 4000);
   };
 

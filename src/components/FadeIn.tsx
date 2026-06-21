@@ -4,8 +4,8 @@ import React, { useEffect, useRef, useState } from 'react';
 
 interface FadeInProps {
   children: React.ReactNode;
-  delay?: number; // in milliseconds
-  duration?: number; // in milliseconds
+  delay?: number; 
+  duration?: number; 
   direction?: 'up' | 'down' | 'left' | 'right' | 'none';
   className?: string;
 }
@@ -33,7 +33,7 @@ export default function FadeIn({
       },
       {
         threshold: 0.05,
-        rootMargin: '0px 0px -50px 0px', // Trigger slightly before it is fully in view
+        rootMargin: '0px 0px -50px 0px',
       }
     );
 

@@ -9,7 +9,7 @@ def build_pdf():
     pdf_path = os.path.abspath("public/Soham_Das_Resume.pdf")
     os.makedirs(os.path.dirname(pdf_path), exist_ok=True)
     
-    # 0.4 inch (28.8pt) margins to ensure everything fits on 1 page
+   
     margin = 28.8
     doc = SimpleDocTemplate(
         pdf_path,
@@ -29,7 +29,7 @@ def build_pdf():
         fontName='Helvetica-Bold',
         fontSize=24,
         leading=26,
-        alignment=1, # Centered
+        alignment=1, 
         textColor=colors.HexColor('#000000'),
         spaceAfter=3
     )

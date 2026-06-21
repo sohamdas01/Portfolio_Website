@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Download } from 'lucide-react';
 import { personalInfo } from '@/lib/data';
+import Image from 'next/image';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -33,9 +34,11 @@ export default function Navbar() {
         {/* Logo / Name */}
         <a href="#" className="text-2xl font-bold tracking-tight text-white flex items-center gap-3.5 group">
           <div className="w-11 h-11 rounded-full overflow-hidden border border-neutral-800 bg-neutral-900 shrink-0 shadow-md shadow-violet-500/5">
-            <img 
-              src="/avatar.jpg" 
-              alt={personalInfo.name} 
+            <Image
+              src="/avatar.jpg"
+              alt={personalInfo.name}
+              height={44}
+              width={44}
               className="w-full h-full object-cover"
             />
           </div>
