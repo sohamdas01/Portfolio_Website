@@ -15,10 +15,6 @@ My focus is on creating **scalable, visually polished systems** that solve real�
 - **Prompt Engineering**, **Fine‑tuning**, **Agent SDK**, **MCP**  
 - **Agentic Workflows**, **Vector Databases**, **Graph Databases**
 
-### 🤖 AI/ML Concepts
-- **NLP**, **Entity Extraction**, **Embedding Models**  
-- **Retrieval‑Augmented Generation (RAG)**  
-- **AI Pipeline Design**, **Model Evaluation**, **Algorithm Testing**
 
 ### 🎨 Frontend & Web Development
 - **React.js**, **Next.js**, **TypeScript**, **JavaScript (ES6+)**  
